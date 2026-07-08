@@ -1,6 +1,6 @@
-# Dracula for Claude Code
+# Dracula theme for Claude Code
 
-A [Dracula](https://draculatheme.com) theme for the [Claude Code](https://claude.com/product/claude-code) CLI.
+A [Dracula](https://draculatheme.com) custom theme for the [Claude Code](https://claude.com/product/claude-code) CLI.
 
 ## Install
 
@@ -14,7 +14,7 @@ A [Dracula](https://draculatheme.com) theme for the [Claude Code](https://claude
 
 2. In Claude Code, run `/theme` and pick **Dracula**.
 
-Claude Code watches `~/.claude/themes/` and reloads on change — no restart needed. Requires Claude Code v2.1.118 or later.
+Claude Code watches `~/.claude/themes/` and reloads on change — no restart needed. Requires Claude Code v2.1.118 or later. See the [custom themes documentation](https://code.claude.com/docs/en/terminal-config#create-a-custom-theme) for how Claude Code theming works.
 
 ## A note on colors
 
