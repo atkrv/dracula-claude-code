@@ -2,6 +2,8 @@
 
 A [Dracula](https://draculatheme.com) custom theme for the [Claude Code](https://claude.com/product/claude-code) CLI.
 
+![Screenshot](screenshot.png)
+
 ## Install
 
 1. Copy `dracula.json` into your Claude Code themes directory:
